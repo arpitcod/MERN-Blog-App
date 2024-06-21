@@ -22,3 +22,4 @@ router.delete('/delete-blog/:id',deleteBlogController)
 router.get('/user-blog/:id',userBlogController)
 
 module.exports = router;
+
